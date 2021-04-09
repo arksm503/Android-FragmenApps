@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmenApps</string>
+    <string name="action_setting">Settings</string>
+
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="title_activity_second">Second Activity</string>
+    <string name="touch_the_button">Touch the Button!</string>
+    <string name="show_button">Show Details</string>
+    <string name="show_inhere">Details loaded Succesfully!</string>
+</resources>
